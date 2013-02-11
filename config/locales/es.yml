@@ -14,20 +14,20 @@ es:
     listing: Listado
     new: Nueva
     update: Actualizar
-  activate: "Activate"
+  activate: "Activar"
   active: Activo
   activerecord: 
     attributes: 
       spree/address: 
-        address1: Address
-        address2: "Address (contd.)"
-        city: City
-        country: "Country"
-        firstname: "First Name"
-        lastname: "Last Name"
-        phone: Phone
-        state: "State"
-        zipcode: "Zip Code"
+        address1: Dirección
+        address2: "Dirección (continuación.)"
+        city: Ciudad
+        country: "País"
+        firstname: "Nombre"
+        lastname: "Apellidos"
+        phone: Télefono
+        state: "Estado"
+        zipcode: "Código Postal"
       spree/country: 
         iso: ISO
         iso3: ISO3
@@ -1166,7 +1166,7 @@ es:
   use_billing_address: Usar la dirección de facturación
   use_different_shipping_address: "Usar una dirección de envío diferente"
   use_new_cc: "Usar una tarjeta diferente"
-  use_s3: "Use Amazon S3 For Images"
+  use_s3: "Use Amazon S3 para Imagenes"
   user: Usuario
   user_account: Cuenta de cliente
   user_created_successfully: "Cliente creado"

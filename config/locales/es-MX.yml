@@ -1,7 +1,7 @@
 ---
 es-MX: 
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: Una copia de todos los correos sera enviada a las siguientes direcciones
-  abbreviation: Abreviatura
+  abbreviation: Abreviación
   access_denied: "Acceso denegado"
   account: Cuenta
   account_updated: "¡Cuenta actualizada!"
@@ -14,209 +14,210 @@ es-MX:
     listing: Listado
     new: Nueva
     update: Actualizar
-  activate: "Activate"
+  activate: "Activar"
   active: Activo
   activerecord: 
     attributes: 
       spree/address: 
-        address1: Address
-        address2: "Address (contd.)"
-        city: City
-        country: "Country"
-        firstname: "First Name"
-        lastname: "Last Name"
-        phone: Phone
-        state: "State"
-        zipcode: "Zip Code"
+        address1: Dirección
+        address2: "Dirección (continuación.)"
+        city: Ciudad
+        country: "País"
+        firstname: "Nombre"
+        lastname: "Apellidos"
+        phone: Télefono
+        state: "Estado"
+        zipcode: "Código Postal"
       spree/country: 
         iso: ISO
         iso3: ISO3
-        iso_name: "ISO Name"
-        name: Name
-        numcode: "ISO Code"
+        iso_name: "Nombre ISO"
+        name: Nombre
+        numcode: "Código ISO"
       spree/credit_card: 
-        cc_type: Type
-        month: Month
-        number: Number
-        verification_value: "Verification Value"
-        year: Year
+        cc_type: Tipo
+        month: Mes
+        number: "Número"
+        verification_value: "Num Verificación"
+        year: "Año"
       spree/inventory_unit: 
-        state: State
+        state: Estado
       spree/line_item: 
-        price: Price
-        quantity: Quantity
+        price: Precio
+        quantity: Cantidad
       spree/option_type: 
-        name: Name
-        presentation: Presentation
+        name: Nombre
+        presentation: "Presentación"
       spree/order:
-        checkout_complete: "Checkout Complete"
-        completed_at: "Completed At"
-        created_at: Order Date
-        email: Customer E-Mail
-        ip_address: "IP Address"
-        item_total: "Item Total"
-        number: Number
-        payment_state: Payment State
-        shipment_state: Shipment State
-        special_instructions: "Special Instructions"
-        state: State
+        checkout_complete: "Compra Completada"
+        completed_at: "Completada el"
+        created_at: "Fecha de la Orden"
+        email: "E-mail del Cliente"
+        ip_address: "Dirección IP"
+        item_total: "Total del Artículo"
+        number: Numero
+        payment_state: Status del Pago
+        shipment_state: "Status del Envío"
+        special_instructions: "Instrucciones Especiales"
+        state: Status
         total: Total
       spree/order/bill_address: 
-        address1: "Billing address street"
-        city: "Billing address city"
-        firstname: "Billing address first name"
-        lastname: "Billing address last name"
-        phone: "Billing address phone"
-        state: "Billing address state"
-        zipcode: "Billing address zipcode"
+        address1: "Dirección de Facturación"
+        city: "Ciudad de Facturación"
+        firstname: "Nombre de Facturación"
+        lastname: "Apellido de Facturación"
+        phone: "Teléfono Facturación"
+        state: "Estado de Facturación"
+        zipcode: "Código Postal de Facturación"
       spree/order/ship_address: 
-        address1: "Shipping address street"
-        city: "Shipping address city"
-        firstname: "Shipping address first name"
-        lastname: "Shipping address last name"
-        phone: "Shipping address phone"
-        state: "Shipping address state"
-        zipcode: "Shipping address zipcode"
+        address1: "Dirección de Envío"
+        city: "Ciudad de Envío"
+        firstname: "Nombre de la persona Envío"
+        lastname: "Apellido de la persona Envío"
+        phone: "Teléfono de Envío"
+        state: "Estado de Envío"
+        zipcode: "Código Postal del Envío"
       spree/payment_method:
-        name: Name
+        name: Nombre
       spree/product: 
-        available_on: "Available On"
-        cost_price: "Cost Price"
-        description: Description
-        master_price: "Master Price"
-        name: Name
-        on_demand: "On Demand"
-        on_hand: "On Hand"
-        shipping_category: "Shipping Category"
-        tax_category: "Tax Category"
+        available_on: "Disponible el"
+        cost_price: "Costo"
+        description: "Descripción"
+        master_price: "Precio Principal"
+        name: Nombre
+        on_demand: "Sobre pedido"
+        on_hand: "En Almacén"
+        shipping_category: "Categoría de Envío"
+        tax_category: "Categoría de Impuesto"
       spree/promotion: 
-        advertise: Advertise
-        code: Code
-        description: Description
-        event_name: Event Name
-        expires_at: Expires At
-        name: Name
-        path: Path
-        starts_at: Starts At
-        usage_limit: Usage Limit
+        advertise: Publicidad
+        code: "Código"
+        description: "Descripción"
+        event_name: Nombre del Evento
+        expires_at: Expira el
+        name: nombre
+        path: "Dirección URL"
+        starts_at: Inicial el
+        usage_limit: Limite de Uso
       spree/property: 
-        name: Name
-        presentation: Presentation
+        name: Nombre
+        presentation: "Presentación"
       spree/prototype: 
-        name: Name
+        name: Nombre
       spree/return_authorization: 
-        amount: Amount
+        amount: Cantidad
       spree/role: 
-        name: Name
+        name: Nombre
       spree/state: 
-        abbr: Abbreviation
-        name: Name
+        abbr: Abreviatura
+        name: Nombre
       spree/tax_category: 
-        description: Description
-        name: Name
+        description: "Descripción"
+        name: Nombre
       spree/tax_rate: 
-        amount: Rate
-        included_in_price: Included in Price
-        show_rate_in_label: Show rate in label
+        amount: Tarifa
+        included_in_price: Incluido en el Precio
+        show_rate_in_label: Incluir tarfia en la etiqueta
       spree/taxon: 
-        name: Name
+        name: Nombre
         permalink: Permalink
-        position: Position
+        position: "Posición"
       spree/taxonomy: 
-        name: Name
+        name: Nombre
       spree/user: 
         email: Email
-        password: "Password"
-        password_confirmation: "Password Confirmation"
+        password: "Contraseña"
+        password_confirmation: "Confirmación de Contraseña"
       spree/variant: 
-        cost_price: "Cost Price"
-        depth: Depth
-        height: Height
-        price: Price
+        cost_price: "Costo"
+        depth: Espesor
+        height: Alto
+        price: Precio
         sku: SKU
-        weight: Weight
-        width: Width
+        weight: Peso
+        width: Ancho
       spree/zone: 
-        description: Description
-        name: Name
+        description: "Descripción"
+        name: Nombre
     models: 
       spree/address: 
-        one: Address
-        other: Addresses
+        one: "Dirección"
+        other: "Direcciones"
       spree/cheque_payment: 
-        one: Cheque Payment
-        other: Cheque Payments
+        one: Pago Cheque
+        other: Pago Cheques
       spree/country: 
-        one: Country
-        other: Countries
+        one: "País"
+        other: "Países"
       spree/credit_card: 
-        one: "Credit Card"
-        other: "Credit Cards"
+        one: "Tarteja de Crédito"
+        other: "Tartejas de Crédito"
       spree/creditcard_payment: 
-        one: "Credit Card Payment"
-        other: "Credit Card Payments"
+        one: "Pago Tarjeta de Crédito"
+        other: "Pago Tarjetas de Crédito"
       spree/creditcard_txn: 
-        one: "Credit Card Transaction"
-        other: "Credit Card Transactions"
+        one: "Transacción Tarjeta de Crédito"
+        other: "Transacciones Tarjeta de Crédito"
       spree/inventory_unit: 
-        one: "Inventory Unit"
-        other: "Inventory Units"
+        one: "Unidad en Inventario"
+        other: "Unidades en Inventario"
       spree/line_item: 
-        one: "Line Item"
+        one: "Artículo en Linea"
+        other: "Artículos en Linea"
         other: "Line Items"
       spree/order: 
-        one: Order
-        other: Orders
+        one: Orden
+        other: Ordenes
       spree/payment: 
-        one: Payment
-        other: Payments
+        one: Pago
+        other: Pagos
       spree/product: 
-        one: Product
-        other: Products
+        one: Producto
+        other: Productos
       spree/property: 
-        one: Property
-        other: Properties
+        one: Propiedad
+        other: Propiedades
       spree/prototype: 
-        one: Prototype
-        other: Prototypes
+        one: Prototipo
+        other: Prototipos
       spree/return_authorization: 
-        one: Return Authorization
-        other: Return Authorizations
+        one: Autorización Devolución
+        other: Autorización Devoluciones
       spree/role: 
-        one: Roles
+        one: Rol
         other: Roles
       spree/shipment: 
-        one: Shipment
-        other: Shipments
+        one: Envío
+        other: Envíos
       spree/shipping_category: 
-        one: "Shipping Category"
-        other: "Shipping Categories"
+        one: "Categoría de Envío"
+        other: "Categorías de Envío"
       spree/state: 
-        one: State
-        other: States
+        one: Estado
+        other: Estados
       spree/tax_category: 
-        one: "Tax Category"
-        other: "Tax Categories"
+        one: "Categoría de Impuesto"
+        other: "Categorias de Impuesto"
       spree/tax_rate: 
-        one: "Tax Rate"
-        other: "Tax Rates"
+        one: "Tarifa de Impuesto"
+        other: "Tarifas de Impuesto"
       spree/taxon: 
-        one: Taxon
-        other: Taxons
+        one: Clasificación
+        other: Clasificaciones
       spree/taxonomy: 
-        one: Taxonomy
-        other: Taxonomies
+        one: Categoría
+        other: Categorías
       spree/user: 
-        one: User
-        other: Users
+        one: Usuario
+        other: Usuarios
       spree/variant: 
-        one: Variant
-        other: Variants
+        one: Variante
+        other: Variantes
       spree/zone: 
-        one: Zone
-        other: Zones
+        one: Región
+        other: Regiones
   add: Añadir
-  add_action_of_type: Add action of type
+  add_action_of_type: Agregar acción de tipo
   add_category: "Añadir Categoría"
   add_country: "Añadir País"
   add_new_header: "Add New Header"
@@ -239,18 +240,18 @@ es-MX:
   adjustments: Ajustes
   admin: 
     mail_methods: 
-      send_testmail: 'Send Testmail'
+      send_testmail: "Enviar email de prueba"
       testmail: 
-        delivery_error: 'Testmail delivery error'
-        delivery_success: 'Testmail sent successfully'
-        error: 'Testmail error: %{e}'
+        delivery_error: "Errores de envío email de pruebar"
+        delivery_success: 'Exito del Email de prueba'
+        error: 'Error prueba de email: %{e}'
   administration: Administración
   all: "Todos"
   all_departments: Todos los departamentos
   allow_backorders: "Permitir devoluciones"
-  allow_ssl_in_development_and_test: Allow SSL to be used when in development and test modes
-  allow_ssl_in_production: Allow SSL to be used in production mode
-  allow_ssl_in_staging: Allow SSL to be used in staging mode
+  allow_ssl_in_development_and_test: Permitir SSL ser usuado en modo de desarrollo y test
+  allow_ssl_in_production: "Permitir SSL ser usado en modo de producción"
+  allow_ssl_in_staging: "Permitir SSL ser usado en modo de Staging"
   allowed_ssl_in_production_mode: "SSL %{not} se utilizará en producción"
   already_registered: ¿Ya está registrado?
   alt_text: Texto alternativo
@@ -267,33 +268,33 @@ es-MX:
   are_you_sure_you_want_to_capture: "¿Está seguro de que desea capturar?"
   assign_taxon: "Asignar Categoría"
   assign_taxons: "Asignar Categorías"
-  attachment_default_style: "Attachments Style"
-  attachment_default_url: "Attachments URL"
-  attachment_path: "Attachments Path"
-  attachment_styles: "Paperclip Styles"
+  attachment_default_style: "Estilo de los Agregados"
+  attachment_default_url: "URL Agregado"
+  attachment_path: "Dirección de los Agregados"
+  attachment_styles: "Estilo Paperclip"
   authorization_failure: "Fallo de autorización"
   authorized: Autorizado
-  availability: "Availability"
+  availability: "Disponibilidad"
   available_on: "Disponible en"
-  available_taxons: "Taxones disponibles"
+  available_taxons: "Categorías disponibles"
   awaiting_return: Esperando respuesta
   back: Atrás
   back_end: Parte Intera
-  back_to_adjustments_list: "Back To Adjustments List"
-  back_to_images_list: "Back To Images List"
-  back_to_mail_methods_list: "Back To Mail Methods List"
-  back_to_option_tyles_list: "Back To Option Types List"
-  back_to_payment_methods_list: "Back To Payment Methods List"
-  back_to_payments_list: "Back To Payments List"
-  back_to_products_list: "Back To Products List"
-  back_to_promotions_list: "Back To Promotions List"
-  back_to_properties_list: "Back To Products List"
-  back_to_prototypes_list: "Back To Prototypes List"
-  back_to_reports_list: "Back To Reports List"
-  back_to_shipping_categories: "Back To Shipping Categories"
-  back_to_shipping_methods_list: "Back To Shipping Methods List"
-  back_to_states_list: "Back To States List"
-  back_to_store: "Volver a la tienda"
+  back_to_adjustments_list: "Regresar a la lista de Ajustes"
+  back_to_images_list: "Regresar a la lista de Imagenes"
+  back_to_mail_methods_list: "Regresar a la Lista de Medios de Email"
+  back_to_option_tyles_list: "Regresar al Listado Tipos de Opción"
+  back_to_payment_methods_list: "Regresar al Listado de Métodos de Pago"
+  back_to_payments_list: "Regresar a la Lista de Pagos"
+  back_to_products_list: "Regresar a la Lista de Productos"
+  back_to_promotions_list: "Regresar a la Lista de Promociones"
+  back_to_properties_list: "Regresar a la Lista de Productos"
+  back_to_prototypes_list: "Regresar a la Lista de Prototipos"
+  back_to_reports_list: "Regresar a la Lista de Reportes"
+  back_to_shipping_categories: "Regresar a la Lista de Categorías de Envío"
+  back_to_shipping_methods_list: "Regresar a la Lista de Metodos de Envío"
+  back_to_states_list: "Regresar a la Lisa de Estados"
+  back_to_store: "Regresar a la tienda"
   back_to_tax_categories_list: "Back To Tax Categories List"
   back_to_taxonomies_list: "Back To Taxonomies List"
   back_to_trackers_list: "Back To Trackers List"
@@ -946,7 +947,7 @@ es-MX:
   recalculate_order_total: "Recalcular total del pedido"
   receive: recibir
   received: Recibido
-  refund: Devolver
+  refund: DeRegresar
   register: Registrar como nuevo cliente
   register_or_guest: Comprar como invitado o registrarse como cliente
   registration: Registro
@@ -955,7 +956,7 @@ es-MX:
   rename: Rename
   reports: Informes
   required_for_solo_and_maestro: Obligatorio para Tarjetas Solo y Maestro.
-  resend: "Volver a enviar"
+  resend: "Regresar a enviar"
   resend_confirmation_instructions: "Reenviar instrucciones de confirmación"
   resend_unlock_instructions: "Reenviar instrucciones de desbloqueo"
   reset_password: "Reiniciar my contraseña"
@@ -967,11 +968,11 @@ es-MX:
   response_code: "Código de respuesta"
   resume: "Reanudar"
   resumed: Reanudado
-  return: volver
+  return: Regresar
   return_authorization: Autorización para devolución
-  return_authorization_updated: Devolver autorización actualizada
+  return_authorization_updated: DeRegresar autorización actualizada
   return_authorizations: Autorizaciones para devoluciones
-  return_quantity: Devolver cantidad
+  return_quantity: DeRegresar cantidad
   returned: regresó
   review: Review
   rma_credit: Crédito RMA
@@ -1122,8 +1123,8 @@ es-MX:
   taxon: Categoría
   taxon_edit: Editar categoría
   taxonomies: "Categorías"
-  taxonomies_setting_description: "Crear y manejar taxonomías"
-  taxonomy: Taxonomy
+  taxonomies_setting_description: "Crear y manejar categorías"
+  taxonomy: "Categoría"
   taxonomy_edit: "Editar categorías"
   taxonomy_tree_error: "El cambio solicitado no ha sido aceptado y el árbol ha vuelto a su estado anterior. Por favor, inténtelo de nuevo."
   taxonomy_tree_instruction: "* Click derecho en uno de los nodos para acceder al menu para añadir, eliminar u ordenar nodos"

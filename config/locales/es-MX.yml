@@ -25,9 +25,9 @@ es-MX:
         country: "Country"
         firstname: "First Name"
         lastname: "Last Name"
-        phone: Phone
-        state: "State"
-        zipcode: "Zip Code"
+        phone: Teléfono
+        state: "Estado"
+        zipcode: "Código Postal"
       spree/country: 
         iso: ISO
         iso3: ISO3
@@ -35,22 +35,22 @@ es-MX:
         name: Name
         numcode: "ISO Code"
       spree/credit_card: 
-        cc_type: Type
-        month: Month
-        number: Number
+        cc_type: Tipo
+        month: Més
+        number: Numero
         verification_value: "Verification Value"
-        year: Year
+        year: Año
       spree/inventory_unit: 
-        state: State
+        state: Estado
       spree/line_item: 
-        price: Price
+        price: Precio
         quantity: Quantity
       spree/option_type: 
-        name: Name
+        name: Nombre
         presentation: Presentation
       spree/order:
-        checkout_complete: "Checkout Complete"
-        completed_at: "Completed At"
+        checkout_complete: "Compra completada"
+        completed_at: "Completada el"
         created_at: Order Date
         email: Customer E-Mail
         ip_address: "IP Address"

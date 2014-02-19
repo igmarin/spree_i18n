@@ -211,8 +211,8 @@ es-MX:
         one: Usuario
         other: Usuarios
       spree/variant: 
-        one: Variante
-        other: Variantes
+        one: Numero
+        other: 'Numeración'
       spree/zone: 
         one: Región
         other: Regiones

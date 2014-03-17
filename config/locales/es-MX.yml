@@ -560,7 +560,7 @@ es-MX:
   logged_in_succesfully: "Conectado con éxito"
   logged_out: "Se ha cerrado la sesión."
   login: Validación
-  login_as_existing: "Validarse como cliente existente"
+  login_as_existing: "Ingresa con tu contraseña (8 digitos minimo pueden ser num o letras)"
   login_failed: "No se ha podido iniciar la sesión, error de autenticación."
   login_name: "Nombre de usuario"
   logout: "Cerrar sesión"

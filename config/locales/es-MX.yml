@@ -893,10 +893,10 @@ es-MX:
   products: Productos
   products_with_zero_inventory_display: "Productos sin existencias %{not} serán mostrados"
   promotion: Promoción
-  promotion_action: Promotion Action
+  promotion_action: "Acción para aplicar la promoción"
   promotion_action_types: 
     create_adjustment: 
-      description: Creates a promotion credit adjustment on the order
+      description: "Crear una promoción y ajustar esta"
       name: Create adjustment
     create_line_items: 
       description: Populates the cart with the specified quantity of variant
@@ -904,13 +904,13 @@ es-MX:
     give_store_credit: 
       description: Gives the user store credit of the amount specified
       name: Give store credit
-  promotion_actions: Actions
+  promotion_actions: Acciones
   promotion_form: 
     match_policies: 
       all: Coincide con alguna de las siguientes reglas
       any: Coincide con todas las siguientes reglas
-  promotion_not_found: The coupon code you entered doesn't exist. Please try again.
-  promotion_rule: Promotion Rule
+  promotion_not_found: "El cupón que se ha agregado no existe, favor de verificarlo"
+  promotion_rule: Promotion Reglao
   promotion_rule_types: 
     first_order: 
       description: Debe ser el primer pedido del cliente
@@ -1095,8 +1095,8 @@ es-MX:
   ssl_will_not_be_used_in_staging_mode: "SSL will not be used in staging mode"
   start: Inicio
   start_date: Válido desde
-  state: Provincia
-  state_based: "Provincia"
+  state: Estado
+  state_based: "Estado"
   state_setting_description: "Administrar la lista de estados o provincias asociados con cada país."
   states: Provincias
   status: Estado
@@ -1132,9 +1132,9 @@ es-MX:
   test: "Test"
   test_mailer: 
     test_email: 
-      greeting: 'Congratulations!'
-      message: 'If you have received this email, then your email settings are correct.'
-      subject: 'Testmail'
+      greeting: 'Felicidades!'
+      message: 'Si has recibido este correo todo esta correctamente.'
+      subject: 'Mail de Orueba'
   test_mode: Modo Prueba
   thank_you_for_your_order: "Gracias por su pedido"
   there_were_problems_with_the_following_fields: "Han habido problemas con los siguientes campos: "
@@ -1176,7 +1176,7 @@ es-MX:
   users: Usuarios
   validate_on_profile_create: Validar al crear perfil
   validation: 
-    cannot_be_greater_than_available_stock: "cannot be greater than available stock."
+    cannot_be_greater_than_available_stock: "No puede ser mayor de lo que se cuenta en el stock."
     cannot_be_less_than_shipped_units: "no puede ser menos que el número de unidades enviadas."
     cannot_destory_line_item_as_inventory_units_have_shipped: "Cannot destory line item as some inventory units have shipped."
     is_too_large: "es demasiado grande -- no hay suficientes productos disponibles para ésa cantidad"

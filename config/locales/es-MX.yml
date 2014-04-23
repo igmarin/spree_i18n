@@ -647,7 +647,7 @@ es-MX:
     variant_deleted: "Variante borrada"
     variant_not_deleted: "La variante no ha podido borrarse"
   on_hand: "Disponible"
-  one_default_category_with_default_tax_rate: "You should configure exactly one default category with your countries default tax rate"
+  one_default_category_with_default_tax_rate: "Debes de configurar una categoria por default así como una forma de impuestos para tu país"
   operation: Operación
   option_type: "Tipo de opción"
   option_types: "Tipos de opción"
@@ -655,7 +655,7 @@ es-MX:
   option_values: "Valores de la opción"
   options: Opciones
   or: o
-  or_over_price: "%{price} or over"
+  or_over_price: "superior a %{price}"
   order: Pedido
   order_adjustments: "Order adjustments"
   order_confirmation_note: "Nota de confirmación de pedido"
@@ -664,20 +664,20 @@ es-MX:
   order_email_resent: "Email de pedido reenviado"
   order_mailer: 
     cancel_email: 
-      dear_customer: "Dear Customer,"
-      instructions: "Your order has been CANCELED.  Please retain this cancellation information for your records."
-      order_summary_canceled: "Order Summary [CANCELED]"
+      dear_customer: "Estimado cliente,"
+      instructions: "su orden ha sido CANCELADA CANCELED.  Por favor guarde este correo para futuras aclaraciones."
+      order_summary_canceled: "Detalles de la Orden [CANCELED]"
       subject: "Cancelación de pedido"
       subtotal: "Subtotal:"
       total: "Order Total:"
     confirm_email: 
-      dear_customer: "Dear Customer,"
-      instructions: "Please review and retain the following order information for your records."
-      order_summary: "Order Summary"
+      dear_customer: "Estimado Cliente,"
+      instructions: "Por favor revise y mantegan la siguiente información de los registros enviados."
+      order_summary: "Resumen del pedido"
       subject: "Confirmación de pedido"
       subtotal: "Subtotal:"
       thanks: "Thank you for your business."
-      total: "Order Total:"
+      total: "Total de la Orden:"
   order_not_in_system: Número de pedido no válido
   order_number: "Pedido #"
   order_operation_authorize: "Autorizar"
@@ -709,8 +709,8 @@ es-MX:
   page_only_viewable_when_logged_in: Ha intentado acceder a una página que sólo es accesible como usuario validado. Debe iniciar sesión.
   page_only_viewable_when_logged_out: Ha intentado acceder a una página que sólo es accesible como usuario no validado. Debe salir de la sesión.
   pagination: 
-    next_page: "next page &raquo;"
-    previous_page: "&laquo; previous page"
+    next_page: "siguiente pagina &raquo;"
+    previous_page: "&laquo; pagina anterior"
     truncate: "&hellip;"
   paid: Pagado
   parent_category: "Categoría padre"
@@ -751,8 +751,8 @@ es-MX:
   phone: Teléfono
   place_order: Hacer pedido
   please_create_user: "Por favor, regístrese como cliente"
-  please_define_payment_methods: "Please define some payment methods first."
-  populate_get_error: "Something went wrong. Please try adding the item again."
+  please_define_payment_methods: "Por favor defina un medio de pago primeramente."
+  populate_get_error: "Algo ocurrio mal, por favor trate nuevamente."
   powered_by: "Soportado por"
   presentation: Presentación
   preview: Vista previa
